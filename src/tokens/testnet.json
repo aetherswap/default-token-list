@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "address": "0x22f92e5a6219bEf9Aa445EBAfBeB498d2EAdBF01",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x9Cfb5595cad475cEB506631C6e898a48c4F4CeE6",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Aetherswap",
+    "address": "0x00aa453844E50B21f57f809b90A3526055C2799b",
+    "symbol": "ATR",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/aetherswap/assets/refs/heads/main/blockchains/ethernity-test/assets/0x00aa453844E50B21f57f809b90A3526055C2799b/logo.png"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x3618B058a7fb6638003C8de41d152e9A73aBCC71",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x06B468AAbdD02033B2BBdFa2306300b9515363Ca",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "address": "0x778Fe591DdBA7d9E4771eC5B2979926C7403d6D1",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/aetherswap/assets/refs/heads/main/blockchains/ethernity-test/assets/0x778Fe591DdBA7d9E4771eC5B2979926C7403d6D1/logo.png"
+  },
+  {
+    "name": "Wrapped ERN",
+    "address": "0x61A96ADf813E0f34CE3857a72f0E3bdFce8f81b8",
+    "symbol": "WERN",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/aetherswap/assets/refs/heads/main/blockchains/ethernity-test/assets/0x61A96ADf813E0f34CE3857a72f0E3bdFce8f81b8/logo.png"
+  }
+]

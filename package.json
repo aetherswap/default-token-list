@@ -1,0 +1,46 @@
+{
+  "name": "@aetherswap/default-token-list",
+  "version": "0.0.1",
+  "description": "The Aetherswap default token list",
+  "main": "build/aetherswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/aetherswap-default.tokenlist.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/aetherswap-default.tokenlist.json"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aetherswap/default-token-list.git"
+  },
+  "keywords": [
+    "aetherswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "AetherLabs",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aetherswap/default-token-list/issues"
+  },
+  "homepage": "https://github.com/aetherswap/default-token-list#readme",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-list-bridge-utils": "^2.3.0",
+    "@uniswap/token-lists": "^1.0.0-beta.29",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  },
+  "directories": {
+    "test": "test"
+  }
+}

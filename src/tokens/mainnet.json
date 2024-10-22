@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Token",
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "symbol": "XXX",
+    "decimals": 18,
+    "chainId": 183,
+    "logoURI": "ipfs://QmeH3nctHmSTvPT3j76Xj29FenCyFtE7EpXX6LUuTEVEBx"
+  }
+]

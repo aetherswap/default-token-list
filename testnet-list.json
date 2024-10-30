@@ -9,20 +9,68 @@
     },
     "tokens": [
         {
-            "name": "Wrapped Ether",
-            "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
-            "symbol": "WETH",
-            "decimals": 18,
-            "chainId": 233,
-            "logoURI": "https://gateway.pinata.cloud/ipfs/QmYLHapU2BQZeEdGnFZeQcAJ3fLUw76QUwwair7EHuxGdo"
+    "name": "Wrapped Ether",
+    "address": "0x22f92e5a6219bEf9Aa445EBAfBeB498d2EAdBF01",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmYLHapU2BQZeEdGnFZeQcAJ3fLUw76QUwwair7EHuxGdo"
         },
         {
-            "name": "Wrapped Ether",
-            "address": "0x826551890Dc65655a0Aceca109aB11AbDbD7a07B",
-            "symbol": "WETH",
-            "decimals": 18,
-            "chainId": 233,
-            "logoURI": "https://gateway.pinata.cloud/ipfs/QmYLHapU2BQZeEdGnFZeQcAJ3fLUw76QUwwair7EHuxGdo"
-        },
+    "name": "Test DAI",
+    "address": "0xd24291e8dC652E2a34f374bC3cE9bF93e9974a85",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "Aetherswap",
+    "address": "0x4646D6BAB17a824AA9E961F2D69eAabF770cd4d0",
+    "symbol": "AET",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/Qmc4fGJfzdpmU7N8DEukYSDbaNwptUfW51d4ycgw8g6PhR"
+  },
+  {
+    "name": "Test USDT",
+    "address": "0x0D390118524223076e90038F38F4EacdBBf72176",
+    "symbol": "USDT",
+    "decimals": 6,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "name": "Test USDC",
+    "address": "0xA920ff82fb1a11481bB82467891DC00a8daE68A1",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 233,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "Test ERN",
+    "address": "0x58a192900Db8b3d74e47C556258bf90bEE7424dc",
+    "symbol": "ERN",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmPA8BNoDR7mz4fm9H1CSZBs5GGkTTfaQdv9wjswmX8P4H"
+  },
+  {
+    "name": "NebulaSpace",
+    "address": "0x6131D04eb9af7B8153B9dAEb94494C2f36eC5156",
+    "symbol": "NEBULA",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmaxmK8UY7KiCiLJvZU4FkaKeAUF9dBKCKZz22vt7R1L4d"
+  },        
+  {
+    "name": "Comet",
+    "address": "0xCb63Ce08C0663803001a5Df4FE1d59FCeD234FB5",
+    "symbol": "COMET",
+    "decimals": 18,
+    "chainId": 233,
+    "logoURI": "https://gateway.pinata.cloud/ipfs/QmXm58maeLFFonpitfe3inw5LAq6mm7BWBdVz8K2VZhesd"
+  }
     ]
 }

@@ -1,6 +1,6 @@
 {
     "name": "Aetherswap V1 Testnet List",
-    "timestamp": "2024-10-30T17:00:00.000Z",
+    "timestamp": "2024-11-08T17:00:00.000Z",
     "logoURI": "https://gateway.pinata.cloud/ipfs/QmcuVdT4kwXzviJyS4HsZStkfcwVWBagGT94A5wFCtkCT7",
     "version": {
         "major": 1,
@@ -17,8 +17,8 @@
             "logoURI": "https://gateway.pinata.cloud/ipfs/QmYLHapU2BQZeEdGnFZeQcAJ3fLUw76QUwwair7EHuxGdo"
         },
         {
-            "name": "Test DAI",
-            "address": "0xd24291e8dC652E2a34f374bC3cE9bF93e9974a85",
+            "name": "DAI Stablecoin",
+            "address": "0x7fABA581e0b82D8EB0dEd511797EA7902ea2CEf7",
             "symbol": "DAI",
             "decimals": 18,
             "chainId": 233,
@@ -26,23 +26,23 @@
         },
         {
             "name": "Aetherswap",
-            "address": "0x4646D6BAB17a824AA9E961F2D69eAabF770cd4d0",
-            "symbol": "AET",
+            "address": "0x676BE31B68d28672c13E30b2BBE44beCD3C9eA45",
+            "symbol": "AETHER",
             "decimals": 18,
             "chainId": 233,
             "logoURI": "https://gateway.pinata.cloud/ipfs/Qmc4fGJfzdpmU7N8DEukYSDbaNwptUfW51d4ycgw8g6PhR"
         },
         {
-            "name": "Test USDT",
-            "address": "0x0D390118524223076e90038F38F4EacdBBf72176",
+            "name": "Tether",
+            "address": "0xeE285e229f92cF424F5Fb741C1d775191EbfD343",
             "symbol": "USDT",
             "decimals": 6,
             "chainId": 233,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
         },
         {
-            "name": "Test USDC",
-            "address": "0xA920ff82fb1a11481bB82467891DC00a8daE68A1",
+            "name": "USD Coin",
+            "address": "0x4aE1083C5aB40737875053Bc928397e76260C733",
             "symbol": "USDC",
             "decimals": 6,
             "chainId": 233,
@@ -50,27 +50,27 @@
         },
         {
             "name": "Test ERN",
-            "address": "0x58a192900Db8b3d74e47C556258bf90bEE7424dc",
+            "address": "0x98e7Aee6aEE36B45C731Afb2a2A86b6421f0dC80",
             "symbol": "ERN",
             "decimals": 18,
             "chainId": 233,
             "logoURI": "https://gateway.pinata.cloud/ipfs/QmPA8BNoDR7mz4fm9H1CSZBs5GGkTTfaQdv9wjswmX8P4H"
         },
         {
-            "name": "NebulaSpace",
-            "address": "0x6131D04eb9af7B8153B9dAEb94494C2f36eC5156",
-            "symbol": "NEBULA",
+            "name": "Astronom",
+            "address": "0xCd2E9269B2B4958217770675f4EACa97B62C85A5",
+            "symbol": "ASTRO",
             "decimals": 18,
             "chainId": 233,
             "logoURI": "https://gateway.pinata.cloud/ipfs/QmaxmK8UY7KiCiLJvZU4FkaKeAUF9dBKCKZz22vt7R1L4d"
         },
         {
-            "name": "Comet",
-            "address": "0xCb63Ce08C0663803001a5Df4FE1d59FCeD234FB5",
-            "symbol": "COMET",
-            "decimals": 18,
+            "name": "Wrapped Bitcoin",
+            "address": "0x4e7C4625E6DfF238fE2670B338d3fD12CB8803dd",
+            "symbol": "WBTC",
+            "decimals": 8,
             "chainId": 233,
-            "logoURI": "https://gateway.pinata.cloud/ipfs/QmXm58maeLFFonpitfe3inw5LAq6mm7BWBdVz8K2VZhesd"
+            "logoURI": "https://assets.coingecko.com/coins/images/32207/standard/wrapped_bitcoin_wbtc.png?1696750238"
         }
     ]
 }
